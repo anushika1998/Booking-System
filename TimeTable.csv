@@ -1,0 +1,17 @@
+Mandatory/Elective,Course Name ,Course Code,Instructor,Credits,Acronym,Monday Time$Venue,Tueday Time$Venue,Wednesday Time$Venue,Thurday Time$Venue,Friday Time$Venue,Tut Day$Time$Venue,Lab Day$Time$Venue
+Mandatory,Discrete Mathematics,CSE121,Dhongoon Chang,4,DM,,1:30-3:00$C21,,,11:30-1:00$C21,Wednesday $4:00-5:30$S01 : Friday $4:00-5:30$LR1;LR2;LR3 :,
+Mandatory,Advanced Programming,CSE201,Vivek Kumar,4,AP,11:00-12:00$C21,,11:00-12:00$C21,11:00-12:00$C21,,Monday  $12:00-1:00$LR1;LR2;S01;S02 :,Thursday : $12:00-1:00$L21;L22;L23
+Mandatory,Computer Organization,CSE112,Naveen Prakash ,4,CO,,,2:30-4:00$C21,4:00-5:30$C01,,Wednesday  $1:30-2:30$LR2;LR3;C22;C23 :,
+Elective,Math-III,MTH203,Sarthok Sircar,4,M-III,,3:00-4:00$C21,,3:00-4:00$C21,3:00-4:00$C21,Monday $8:30-10:00$LR1$1:30-3:00$LR1 :,
+Elective,Signal & Systems,ECE250,Anubha Gupta,4,S&S,,11:00-12:00$C21,,2:00-3:00$C21,2:00-3:00$C21,Monday  $2:00-3:00$LR3 :,
+Elective,Real Analysis I,MTH2xx,Samaresh Chatterjee,4,RA,3:00-4:00$C02,10:00-11:00$C02,,10:00-11:00$C02,,Monday $1:30-3:00$LR2 :,
+Elective,Number Theory,MTH2xx,Anuradha Sharma,4,NT,10:00-11:00$C12,,10:00-11:00$C12,,9:30-10:30$C12,Monday $2:00-3:00$C23 : Friday $10:30-11:30$LR1 :,
+HSS Elective,Perspectives of Knowledge,HSS202,Raj Ayyar,4,PoK,4:00-5:30$C24,,4:00-5:30$C24,,,,
+HSS Elective,Introduction to Psychology,HSS204,Akshay Kumar,4,Psy,4:00-5:30$C01,,4:00-5:30$C01,,,,
+HSS Elective,Theory & Practice of Engineering Ethics,HSS208,Raj Ayyar,4,TPEE,,4:00-5:30$C22,,,4:00-5:30$C22,,
+HSS Elective,Theatre Appreciation,HSS211,Manohar Khushlani,4,TA,4:00-5:30$C12,,4:00-5:30$C12,,,,
+HSS Elective,Key Concepts in Economic Sociology,HSS2ES,Amrit Srinivasan,4,ES,,4:00-5:30$C24,,,4:00-5:30$C24,,
+HSS Elective,Introduction to Digital Ethonography,HSS2xx,Shriram Venkatraman,4,IDE,4:00-5:30$C11,,4:00-5:30$C11,,,,
+HSS Elective,Introduction to Media in Society : A Public Sphere Approach,HSS2xx,Aasim Khan,4,IMS,,4:00-5:30$C03,,,4:00-5:30$C03,,
+HSS Elective,Introduction to Social Informatics,HSS2xx,Venkata Ratandeep Suri,4,ISI,,4:00-5:30$C13,,,4:00-5:30$C13,,
+HSS Elective,Introduction to Poetry,HSS223A,Saumya Kulshreshtha,4,PO,,4:30-6:00$C02,,,,,
